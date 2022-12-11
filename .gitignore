@@ -1,0 +1,9 @@
+# Embeddings file
+products_with_embeddings.csv
+
+# Virtual environment
+insta_rec
+
+# Python files
+.ipynb_checkpoints/
+.DS_Store
